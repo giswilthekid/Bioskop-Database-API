@@ -7,6 +7,7 @@ Documentation: (swagger:not yet documented)
 Setup (on Windows example)
 
 # install environments
+
 $ py -3 -m venv venv
 $ venv\Scripts\activate
 (venv) $ pip install -r requirements.txt
